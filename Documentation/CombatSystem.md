@@ -8,7 +8,7 @@ Combat is a seated dice duel. In the standard rules, each participant uses **six
 
 The opening player is chosen by a coin toss. When the player starts, the GDD describes a **2 / 4 / 4 / 2** sequence:
 
-![Placement](media/Placement.jpg)
+![Placement](Dices_public/media/Placement.jpg)
 
 The placement order reverses after each brawl. The 2/4/4/2 pattern creates periods where a participant commits dice without seeing every opposing placement, followed by opportunities to react.
 
