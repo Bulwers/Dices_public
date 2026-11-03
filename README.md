@@ -6,7 +6,7 @@ Dices is a **turn-based dice combat prototype developed in Unreal Engine 5 using
 
 The project focuses on gameplay programming, physics-based dice mechanics, enemy decision-making and modular gameplay systems.
 
-![Dices roll](media/dices_roll.gif)
+![Dices roll](Dices_public/media/dices_roll.gif)
 
 ## Features
 
